@@ -25,7 +25,6 @@ h2{
 
 .wrapper{
 	width: 960px;
-	padding: 0 20px;
 	margin: 0 auto;
 
 }
@@ -43,9 +42,32 @@ h2{
 
 nav{
 	height: 100px;
-
 	background-color: white;
 	box-shadow: 0 5px 8px rgba(0, 0, 0, 0.2) ;
+}
+
+nav ul{
+	padding: 0;
+	margin: 0;
+}
+
+nav ul li{
+	padding: 0;
+	margin: 0;
+	display: block;
+	float: left;
+}
+
+nav ul li a{
+	display: block;
+	height: 100%;
+	box-sizing: border-box ;
+	font-size: 30px;
+	text-transform: uppercase;
+	font-weight: bold;
+	color: #111111;
+	text-decoration: none;
+	padding: 30px 31px;
 }
 
 /*
