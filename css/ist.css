@@ -55,14 +55,14 @@ nav{
 	position: sticky;
 }
 
-nav .logo{
+nav .img{
 	display: block;
 	width: 300px;
 	height: 40px;
 	position: absolute; top: 50%; left: 0;
 	margin-top: -20%;
 	margin-left: 30px;
-	background: url(img/screenshot.png) no-repeat 0 0;
+	background: no-repeat 0 0;
 	background-size: 100%;
 }
 
