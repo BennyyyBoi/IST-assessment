@@ -40,6 +40,14 @@ h2{
 	margin: 0 0 495px;
 }
 
+.home img{
+	background: no-repeat 0 0;
+	background-size: 100%;
+	width: 300px;
+	height: 300px;
+	position: absolute; top: 175px; right: 220.5px;
+}
+
 nav{
 	height: 100px;
 	background-color: white;
@@ -54,7 +62,7 @@ nav .logo{
 	position: absolute; top: 50%; left: 0;
 	margin-top: -20%;
 	margin-left: 30px;
-	background: url(img/benett-logo.jpeg) no-repeat 0 0;
+	background: url(img/screenshot.png) no-repeat 0 0;
 	background-size: 100%;
 }
 
