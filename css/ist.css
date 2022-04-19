@@ -89,3 +89,44 @@ nav ul li a{
 	text-decoration: none;
 	padding: 30px 31px;
 }
+
+.rapper{
+	width: 960px;
+	margin: 0 auto;
+
+}
+
+.list{
+	width: 470px;
+	padding: 20px 20px 0px 20px;
+	box-sizing: border-box;
+	background-color: #EDEDED;
+	float: left;
+	margin: 0 20px 20px 0;
+
+}
+
+.about h2{
+	font-size: 40px;
+}
+
+.list li{
+	height: 70px;
+	border-radius: 10px;
+	font-size: 40px;
+	color: white;
+	font-weight: bold;
+	display: block;
+	margin-bottom: 20px;
+	padding: 5px 20px;
+	box-sizing: border-box;
+}
+
+.list li.red{background-color: #FF3300;}
+.list li.blue{background-color: #007FFF;}
+.list li.yellow{
+	background-color: #FFD400;
+	color: #111111;
+}
+.list li.pink{background-color: #FFADF9;}
+.list li.salmon{background-color: #FA8072;}
