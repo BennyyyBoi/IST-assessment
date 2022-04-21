@@ -91,7 +91,7 @@ nav ul li a{
 }
 
 .rapper{
-	width: 960px;
+	width: 1250px;
 	margin: 0 auto;
 
 }
@@ -108,6 +108,11 @@ nav ul li a{
 
 .about h2{
 	font-size: 40px;
+}
+
+.about p{
+	font-size: 30px;
+	font-weight: 300;
 }
 
 .list li{
