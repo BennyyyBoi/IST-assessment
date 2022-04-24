@@ -52,7 +52,8 @@ nav{
 	height: 100px;
 	background-color: white;
 	box-shadow: 0 5px 8px rgba(0, 0, 0, 0.2);
-	position: fixed;
+	position: absolute;
+
 
 }
 
@@ -85,7 +86,7 @@ nav ul li a{
 	width: 470px;
 	height: 10px;
 	background-color: black;
-	margin: 70px auto;
+	margin: 95px auto;
 }
 
 .rapper{
@@ -105,6 +106,10 @@ nav ul li a{
 }
 
 .about h2{
+	font-size: 40px;
+}
+
+.internet h2{
 	font-size: 40px;
 }
 
