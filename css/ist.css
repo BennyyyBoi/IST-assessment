@@ -50,11 +50,10 @@ h2{
 
 nav{
 	height: 100px;
+	width: 100%;
 	background-color: white;
 	box-shadow: 0 5px 8px rgba(0, 0, 0, 0.2);
 	position: absolute;
-
-
 }
 
 nav ul{
@@ -107,15 +106,27 @@ nav ul li a{
 
 .about h2{
 	font-size: 40px;
+	font-weight: 800;
 }
 
 .internet h2{
 	font-size: 40px;
+	font-weight: 800;
+}
+
+.internet h3{
+	font-size: 26px;
+	
+}
+
+.internet p{
+	font-weight: 100;
+	font-size: 20px;
 }
 
 .about p{
 	font-size: 38px;
-	font-weight: 300;
+	font-weight: 100;
 }
 
 .list li{
@@ -138,3 +149,7 @@ nav ul li a{
 }
 .list li.pink{background-color: #FFADF9;}
 .list li.salmon{background-color: #FA8072;}
+
+.internet img{
+	float: right;
+}
