@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700;800&display=swap');
 
+html {
+  scroll-behavior: smooth;
+}
+
 body, html{
 	font-family: 'Open Sans', sans-serif;
 	padding: 0;
@@ -116,6 +120,7 @@ nav ul li a{
 
 .internet h3{
 	font-size: 26px;
+	font-weight: 800;
 	
 }
 
