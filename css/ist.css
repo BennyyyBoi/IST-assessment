@@ -208,16 +208,7 @@ form{
 	border-radius: 10px;
 }
 
-form input, form textarea{
-	border: 0;
-	margin: 10px 0;
-	padding: 20px;
-	outline: none;
-	background: white;
-	font-size: 16px;
-}
-
-form button{
+form a{
 	padding: 15px;
 	background: #007FFF;
 	color: white;
@@ -225,7 +216,8 @@ form button{
 	border: 0;
 	outline: none;
 	cursor: pointer;
-	width: 150px;
+	width: 123px;
 	margin: 20px auto 0;
 	border-radius: 30px;
+	text-decoration: none;
 }
